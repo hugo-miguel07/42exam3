@@ -13,13 +13,13 @@ The goal of this repository is to practice these subjects repeatedly until they 
 ```
 42exam3/
 ├──lvl1/
-	├──filter.c
-	├──get_next_line.c
+|	├──filter.c
+|	└──get_next_line.c
 ├──lvl2/
-	├──permutations.c
-	├──n_queens.c
-	├──powerset.c
-	├──rip.c
-	├──tsp.c
+|	├──permutations.c
+|	├──n_queens.c
+|	├──powerset.c
+|	├──rip.c
+|	└──tsp.c
 └── README.md
 ```
